@@ -1,0 +1,570 @@
+fileFormatVersion: 2
+guid: d0d18b6b0fa09f74eb89af59e5704bb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -525281237780889775
+    second: decorations laboratory_0
+  - first:
+      213: 8870456500835228504
+    second: decorations laboratory_1
+  - first:
+      213: 8485790459322412077
+    second: decorations laboratory_2
+  - first:
+      213: -6520920252785540865
+    second: decorations laboratory_3
+  - first:
+      213: -7833442812448219407
+    second: decorations laboratory_4
+  - first:
+      213: 7225012245336772579
+    second: decorations laboratory_5
+  - first:
+      213: 2640146145522340485
+    second: decorations laboratory_6
+  - first:
+      213: -2277573428954547936
+    second: decorations laboratory_7
+  - first:
+      213: -1578877965462917734
+    second: decorations laboratory_8
+  - first:
+      213: -7622692219833925063
+    second: decorations laboratory_9
+  - first:
+      213: 478202154680533842
+    second: decorations laboratory_10
+  - first:
+      213: 4958295972923965287
+    second: decorations laboratory_11
+  - first:
+      213: -7803287970083414431
+    second: decorations laboratory_12
+  - first:
+      213: 4757818581751887222
+    second: decorations laboratory_13
+  - first:
+      213: -2501645622925599331
+    second: decorations laboratory_14
+  - first:
+      213: 243560775380980414
+    second: decorations laboratory_15
+  - first:
+      213: -3714203099169805435
+    second: decorations laboratory_16
+  - first:
+      213: -1082339455705193141
+    second: decorations laboratory_17
+  - first:
+      213: 5538540538050854682
+    second: decorations laboratory_18
+  - first:
+      213: 6554191722122049622
+    second: decorations laboratory_19
+  - first:
+      213: 8666578101605731181
+    second: decorations laboratory_20
+  - first:
+      213: 5604291228870617793
+    second: decorations laboratory_21
+  - first:
+      213: -3411605924166469951
+    second: decorations laboratory_22
+  - first:
+      213: -81306950360128265
+    second: decorations laboratory_23
+  - first:
+      213: 2427911182742301821
+    second: decorations laboratory_24
+  - first:
+      213: -4353702736582064171
+    second: decorations laboratory_25
+  - first:
+      213: -7484408454875025604
+    second: decorations laboratory_26
+  - first:
+      213: 3266180269402462055
+    second: decorations laboratory_27
+  - first:
+      213: -3816868543534242258
+    second: decorations laboratory_28
+  - first:
+      213: 5384330450231139056
+    second: decorations laboratory_29
+  - first:
+      213: -2427023591860750975
+    second: decorations laboratory_30
+  - first:
+      213: 993198964440148843
+    second: decorations laboratory_31
+  - first:
+      213: -7702330629892100333
+    second: decorations laboratory_32
+  - first:
+      213: 5852698520806085170
+    second: decorations laboratory_33
+  - first:
+      213: 928188428700558922
+    second: decorations laboratory_34
+  - first:
+      213: 7004043974459882442
+    second: decorations laboratory_35
+  - first:
+      213: 6765174294651015360
+    second: decorations laboratory_36
+  - first:
+      213: -2143593240371459866
+    second: decorations laboratory_37
+  - first:
+      213: -5308679405139653718
+    second: decorations laboratory_38
+  - first:
+      213: 2466817600529706745
+    second: decorations laboratory_39
+  - first:
+      213: 7172893055885221711
+    second: decorations laboratory_40
+  - first:
+      213: -7223967396300486100
+    second: decorations laboratory_41
+  - first:
+      213: -2653860354485400573
+    second: decorations laboratory_42
+  - first:
+      213: -8710879964118017289
+    second: decorations laboratory_43
+  - first:
+      213: -5749187605428820445
+    second: decorations laboratory_44
+  - first:
+      213: -842409525539879767
+    second: decorations laboratory_45
+  - first:
+      213: -5747120856729743060
+    second: decorations laboratory_46
+  - first:
+      213: 2272889939056948760
+    second: decorations laboratory_47
+  - first:
+      213: 4030288644297446843
+    second: decorations laboratory_48
+  - first:
+      213: -1311962645315621594
+    second: decorations laboratory_49
+  - first:
+      213: -4009196923257417105
+    second: decorations laboratory_50
+  - first:
+      213: -6081456014434968111
+    second: decorations laboratory_51
+  - first:
+      213: 8878792564449253310
+    second: decorations laboratory_52
+  - first:
+      213: -3610968996066128695
+    second: decorations laboratory_53
+  - first:
+      213: 1783988459397106815
+    second: decorations laboratory_54
+  - first:
+      213: -6265730544505693665
+    second: decorations laboratory_55
+  - first:
+      213: -1302235558531119845
+    second: decorations laboratory_56
+  - first:
+      213: 4987525492752137946
+    second: decorations laboratory_57
+  - first:
+      213: -9135029933830273873
+    second: decorations laboratory_58
+  - first:
+      213: -83641165289259692
+    second: decorations laboratory_59
+  - first:
+      213: 289200220963486868
+    second: decorations laboratory_60
+  - first:
+      213: -4421799143751267259
+    second: decorations laboratory_61
+  - first:
+      213: -3640570071250795867
+    second: decorations laboratory_62
+  - first:
+      213: 8733300250393025863
+    second: decorations laboratory_63
+  - first:
+      213: 4964554976074763627
+    second: decorations laboratory_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: decorations laboratory_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6fd973f75a54948b135651a177c08f
+      internalID: -460285376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations laboratory_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1fda1556517994d810e15324678fc9
+      internalID: 1003277649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations laboratory_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e31c38c660a1f047be617e2edcd19fa
+      internalID: -129340440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorations laboratory_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472cc94e5a3ca3e41a25fdf346807940
+      internalID: -256440552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fd3293d435f4dd54780e4c65f9857237
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":15.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      decorations laboratory_0: -525281237780889775
+      decorations laboratory_1: 8870456500835228504
+      decorations laboratory_10: 478202154680533842
+      decorations laboratory_100: 45375527
+      decorations laboratory_101: 1718696810
+      decorations laboratory_102: 360606356
+      decorations laboratory_103: -370401404
+      decorations laboratory_104: -398430406
+      decorations laboratory_105: 2021412209
+      decorations laboratory_106: 1730584439
+      decorations laboratory_107: -174672653
+      decorations laboratory_108: 1194337244
+      decorations laboratory_109: 402179772
+      decorations laboratory_11: 4958295972923965287
+      decorations laboratory_110: -751613678
+      decorations laboratory_111: -422725965
+      decorations laboratory_112: 788111846
+      decorations laboratory_113: 1389686241
+      decorations laboratory_114: 1765398124
+      decorations laboratory_115: 870252442
+      decorations laboratory_116: -460285376
+      decorations laboratory_117: -661706446
+      decorations laboratory_118: 615315338
+      decorations laboratory_119: 1003277649
+      decorations laboratory_12: -7803287970083414431
+      decorations laboratory_120: -842299822
+      decorations laboratory_121: -1860582513
+      decorations laboratory_122: -129340440
+      decorations laboratory_123: -1531778213
+      decorations laboratory_124: 1357294100
+      decorations laboratory_125: -256440552
+      decorations laboratory_126: 1049002844
+      decorations laboratory_127: -1516882203
+      decorations laboratory_128: 462333064
+      decorations laboratory_129: 1111362605
+      decorations laboratory_13: 4757818581751887222
+      decorations laboratory_130: 1613300693
+      decorations laboratory_131: -587564182
+      decorations laboratory_132: -1357435174
+      decorations laboratory_133: 740685612
+      decorations laboratory_134: 950556535
+      decorations laboratory_135: -2126555997
+      decorations laboratory_136: 1282036813
+      decorations laboratory_137: -1243134562
+      decorations laboratory_138: 385962887
+      decorations laboratory_139: 1007829185
+      decorations laboratory_14: -2501645622925599331
+      decorations laboratory_140: 1967826093
+      decorations laboratory_141: -1046987171
+      decorations laboratory_15: 243560775380980414
+      decorations laboratory_16: -3714203099169805435
+      decorations laboratory_17: -1082339455705193141
+      decorations laboratory_18: 5538540538050854682
+      decorations laboratory_19: 6554191722122049622
+      decorations laboratory_2: 8485790459322412077
+      decorations laboratory_20: 8666578101605731181
+      decorations laboratory_21: 5604291228870617793
+      decorations laboratory_22: -3411605924166469951
+      decorations laboratory_23: -81306950360128265
+      decorations laboratory_24: 2427911182742301821
+      decorations laboratory_25: -4353702736582064171
+      decorations laboratory_26: -7484408454875025604
+      decorations laboratory_27: 3266180269402462055
+      decorations laboratory_28: -3816868543534242258
+      decorations laboratory_29: 5384330450231139056
+      decorations laboratory_3: -6520920252785540865
+      decorations laboratory_30: -2427023591860750975
+      decorations laboratory_31: 993198964440148843
+      decorations laboratory_32: -7702330629892100333
+      decorations laboratory_33: 5852698520806085170
+      decorations laboratory_34: 928188428700558922
+      decorations laboratory_35: 7004043974459882442
+      decorations laboratory_36: 6765174294651015360
+      decorations laboratory_37: -2143593240371459866
+      decorations laboratory_38: -5308679405139653718
+      decorations laboratory_39: 2466817600529706745
+      decorations laboratory_4: -7833442812448219407
+      decorations laboratory_40: 7172893055885221711
+      decorations laboratory_41: -7223967396300486100
+      decorations laboratory_42: -2653860354485400573
+      decorations laboratory_43: -8710879964118017289
+      decorations laboratory_44: -5749187605428820445
+      decorations laboratory_45: -842409525539879767
+      decorations laboratory_46: -5747120856729743060
+      decorations laboratory_47: 2272889939056948760
+      decorations laboratory_48: 4030288644297446843
+      decorations laboratory_49: -1311962645315621594
+      decorations laboratory_5: 7225012245336772579
+      decorations laboratory_50: -4009196923257417105
+      decorations laboratory_51: -6081456014434968111
+      decorations laboratory_52: 8878792564449253310
+      decorations laboratory_53: -3610968996066128695
+      decorations laboratory_54: 1783988459397106815
+      decorations laboratory_55: -6265730544505693665
+      decorations laboratory_56: -1302235558531119845
+      decorations laboratory_57: 4987525492752137946
+      decorations laboratory_58: -9135029933830273873
+      decorations laboratory_59: -83641165289259692
+      decorations laboratory_6: 2640146145522340485
+      decorations laboratory_60: 289200220963486868
+      decorations laboratory_61: -4421799143751267259
+      decorations laboratory_62: -3640570071250795867
+      decorations laboratory_63: 8733300250393025863
+      decorations laboratory_64: 4964554976074763627
+      decorations laboratory_65: 240078495
+      decorations laboratory_66: -1074843043
+      decorations laboratory_67: 453329278
+      decorations laboratory_68: 1141699098
+      decorations laboratory_69: 1935440442
+      decorations laboratory_7: -2277573428954547936
+      decorations laboratory_70: 1413038756
+      decorations laboratory_71: 1071410785
+      decorations laboratory_72: 1897397562
+      decorations laboratory_73: -1459565613
+      decorations laboratory_74: 705804510
+      decorations laboratory_75: 1991980951
+      decorations laboratory_76: -1123295090
+      decorations laboratory_77: -1652433774
+      decorations laboratory_78: -575353799
+      decorations laboratory_79: 1993573230
+      decorations laboratory_8: -1578877965462917734
+      decorations laboratory_80: -1700441303
+      decorations laboratory_81: 1586341788
+      decorations laboratory_82: -1572167401
+      decorations laboratory_83: 533499073
+      decorations laboratory_84: 1684285351
+      decorations laboratory_85: 309802116
+      decorations laboratory_86: 2012422923
+      decorations laboratory_87: 1151467838
+      decorations laboratory_88: -1021032805
+      decorations laboratory_89: -19783787
+      decorations laboratory_9: -7622692219833925063
+      decorations laboratory_90: -1992200973
+      decorations laboratory_91: -150405049
+      decorations laboratory_92: -997825832
+      decorations laboratory_93: 1657705120
+      decorations laboratory_94: 1994723870
+      decorations laboratory_95: -1257427793
+      decorations laboratory_96: -244704302
+      decorations laboratory_97: 1097695838
+      decorations laboratory_98: 1399033579
+      decorations laboratory_99: 1405488234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Obstacle
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - FOV Mask
+  - Screen
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3982420663
+    locked: 0
+  - name: Agent
+    uniqueID: 1897471617
+    locked: 0
+  - name: Tools
+    uniqueID: 96512519
+    locked: 0
+  - name: Effect
+    uniqueID: 2385736061
+    locked: 0
+  m_RenderingLayers:
+  - Default

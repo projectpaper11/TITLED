@@ -1,0 +1,2587 @@
+fileFormatVersion: 2
+guid: 2341cd2623b2eee4b839034f46383a0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5007283597525108648
+    second: dozer1_0
+  - first:
+      213: -8759657167957193006
+    second: dozer1_1
+  - first:
+      213: 4551168391922294289
+    second: dozer1_2
+  - first:
+      213: 1618903718099553671
+    second: dozer1_3
+  - first:
+      213: -6808335431683976860
+    second: dozer1_4
+  - first:
+      213: 8346508880993337431
+    second: dozer1_5
+  - first:
+      213: -9058424910113828779
+    second: dozer1_6
+  - first:
+      213: 386159076804479863
+    second: dozer1_7
+  - first:
+      213: 3592925015407897511
+    second: dozer1_8
+  - first:
+      213: 1540675007201579489
+    second: dozer1_9
+  - first:
+      213: -1967501305348335383
+    second: dozer1_10
+  - first:
+      213: -7746001247113175815
+    second: dozer1_11
+  - first:
+      213: -9098456326276397166
+    second: dozer1_12
+  - first:
+      213: -7024552553905693332
+    second: dozer1_13
+  - first:
+      213: -2458990781062743867
+    second: dozer1_14
+  - first:
+      213: -2018282675180684412
+    second: dozer1_15
+  - first:
+      213: 3655147520883705334
+    second: dozer1_16
+  - first:
+      213: 2232265451929290882
+    second: dozer1_17
+  - first:
+      213: -6905871865257653675
+    second: dozer1_18
+  - first:
+      213: -6647239084214466217
+    second: dozer1_19
+  - first:
+      213: 536697228710008756
+    second: dozer1_20
+  - first:
+      213: -8655893955263649482
+    second: dozer1_21
+  - first:
+      213: 6204799894735875330
+    second: dozer1_22
+  - first:
+      213: -2160092887316130901
+    second: dozer1_23
+  - first:
+      213: -4300817513557733034
+    second: dozer1_24
+  - first:
+      213: -6988530301423787455
+    second: dozer1_25
+  - first:
+      213: 7652026268092341953
+    second: dozer1_26
+  - first:
+      213: 996862386066721139
+    second: dozer1_27
+  - first:
+      213: 5355165026208514094
+    second: dozer1_28
+  - first:
+      213: -962910376841169018
+    second: dozer1_29
+  - first:
+      213: -851288303759863150
+    second: dozer1_30
+  - first:
+      213: -8253764431212526124
+    second: dozer1_31
+  - first:
+      213: -8442710546264092808
+    second: dozer1_32
+  - first:
+      213: -2749911920409809324
+    second: dozer1_33
+  - first:
+      213: 9167492421803780461
+    second: dozer1_34
+  - first:
+      213: 4998340886620857564
+    second: dozer1_35
+  - first:
+      213: 964179934523194689
+    second: dozer1_36
+  - first:
+      213: -1342956591566480394
+    second: dozer1_37
+  - first:
+      213: 2794893379923926941
+    second: dozer1_38
+  - first:
+      213: -4973575799000564835
+    second: dozer1_39
+  - first:
+      213: 2758010600124628121
+    second: dozer1_40
+  - first:
+      213: -6800478072829405710
+    second: dozer1_41
+  - first:
+      213: 1737933594945258939
+    second: dozer1_42
+  - first:
+      213: -6743076778193680587
+    second: dozer1_43
+  - first:
+      213: -2867496254994516767
+    second: dozer1_44
+  - first:
+      213: 6317191752091018263
+    second: dozer1_45
+  - first:
+      213: -7373116284784961621
+    second: dozer1_46
+  - first:
+      213: 4868288478685508303
+    second: dozer1_47
+  - first:
+      213: -1160171571739342291
+    second: dozer1_48
+  - first:
+      213: -7995703780477121019
+    second: dozer1_49
+  - first:
+      213: -2623735644433240622
+    second: dozer1_50
+  - first:
+      213: -4859286288949543967
+    second: dozer1_51
+  - first:
+      213: 5890253405142220885
+    second: dozer1_52
+  - first:
+      213: -8615404299593585681
+    second: dozer1_53
+  - first:
+      213: -3157935637967641755
+    second: dozer1_54
+  - first:
+      213: 7967229112854891744
+    second: dozer1_55
+  - first:
+      213: 8085691972807562268
+    second: dozer1_56
+  - first:
+      213: -4472477967046602332
+    second: dozer1_57
+  - first:
+      213: 7618156835315297894
+    second: dozer1_58
+  - first:
+      213: -8497674089297639212
+    second: dozer1_59
+  - first:
+      213: 3158832214333259749
+    second: dozer1_60
+  - first:
+      213: -3710053811801460059
+    second: dozer1_61
+  - first:
+      213: 5869846132304775056
+    second: dozer1_62
+  - first:
+      213: 8361767658316000836
+    second: dozer1_63
+  - first:
+      213: -5631365363023301310
+    second: dozer1_64
+  - first:
+      213: -5146466236014582967
+    second: dozer1_65
+  - first:
+      213: -7899454849039217272
+    second: dozer1_66
+  - first:
+      213: -1567977243379242710
+    second: dozer1_67
+  - first:
+      213: 3654470614962778380
+    second: dozer1_68
+  - first:
+      213: -3811889094420952666
+    second: dozer1_69
+  - first:
+      213: -2539024160332748202
+    second: dozer1_70
+  - first:
+      213: 4734137651420801063
+    second: dozer1_71
+  - first:
+      213: -7782737182581281989
+    second: dozer1_72
+  - first:
+      213: 1605067959642046467
+    second: dozer1_73
+  - first:
+      213: -160981571962037509
+    second: dozer1_74
+  - first:
+      213: 5002941012131658866
+    second: dozer1_75
+  - first:
+      213: 3804538538119575188
+    second: dozer1_76
+  - first:
+      213: -6332165295956120894
+    second: dozer1_77
+  - first:
+      213: -3406429622605001890
+    second: dozer1_78
+  - first:
+      213: 5056061663517787679
+    second: dozer1_79
+  - first:
+      213: -5794418063137148933
+    second: dozer1_80
+  - first:
+      213: 1321012504669517614
+    second: dozer1_81
+  - first:
+      213: 2099617219239728012
+    second: dozer1_82
+  - first:
+      213: -6361638327285721416
+    second: dozer1_83
+  - first:
+      213: -7460308368402068803
+    second: dozer1_84
+  - first:
+      213: -7159675017226364655
+    second: dozer1_85
+  - first:
+      213: 6202660918273746680
+    second: dozer1_86
+  - first:
+      213: -1535896863576276079
+    second: dozer1_87
+  - first:
+      213: 7197830350832649147
+    second: dozer1_88
+  - first:
+      213: 6512857342697749399
+    second: dozer1_89
+  - first:
+      213: -201081501501157608
+    second: dozer1_90
+  - first:
+      213: 3755645798514715477
+    second: dozer1_91
+  - first:
+      213: 5868455912696795657
+    second: dozer1_92
+  - first:
+      213: -1598130331564707524
+    second: dozer1_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 800
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dozer1_0
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1520
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7cf18f6e17d7540800000000000000
+      internalID: 5007283597525108648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_1
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1519
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de05b567327f6680800000000000000
+      internalID: -8759657167957193006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_2
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1485
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e93811a8ff82f30800000000000000
+      internalID: 4551168391922294289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_3
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1451
+        width: 119
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d02e2ba50877610800000000000000
+      internalID: 1618903718099553671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_4
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1483
+        width: 73
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46155ca3ffee381a0800000000000000
+      internalID: -6808335431683976860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_5
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1466
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75040460b91c4d370800000000000000
+      internalID: 8346508880993337431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_6
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1482
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5509d10b9820a4280800000000000000
+      internalID: -9058424910113828779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1198
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b49b762a9eb5500800000000000000
+      internalID: 386159076804479863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1061
+        width: 107
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aba000f342acd130800000000000000
+      internalID: 3592925015407897511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1216
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1929691c3916510800000000000000
+      internalID: 1540675007201579489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 385
+        width: 1107
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8589facf702b4e0800000000000000
+      internalID: -1967501305348335383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_11
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1211
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc1614e7eca08490800000000000000
+      internalID: -7746001247113175815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1164
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297c3eb4d2acbb180800000000000000
+      internalID: -9098456326276397166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_13
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1175
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d536e7ba6c38e90800000000000000
+      internalID: -7024552553905693332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_14
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1186
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c87bc4b9e8efddd0800000000000000
+      internalID: -2458990781062743867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1143
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bb789a99e9df3e0800000000000000
+      internalID: -2018282675180684412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1130
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f54cefed41b9b230800000000000000
+      internalID: 3655147520883705334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1118
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2884f9af9999afe10800000000000000
+      internalID: 2232265451929290882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_18
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1123
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a04fe902a6920a0800000000000000
+      internalID: -6905871865257653675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_19
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1111
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759cd40854340c3a0800000000000000
+      internalID: -6647239084214466217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1081
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b75235394bb27700800000000000000
+      internalID: 536697228710008756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_21
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1066
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6392f0ffe4610e780800000000000000
+      internalID: -8655893955263649482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1029
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dec1c31a0eb1650800000000000000
+      internalID: 6204799894735875330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_23
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1059
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba39ca1b6fec502e0800000000000000
+      internalID: -2160092887316130901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1035
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651dc94124d6054c0800000000000000
+      internalID: -4300817513557733034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 967
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142e499b7b0c30f90800000000000000
+      internalID: -6988530301423787455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1043
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce1a914955713a60800000000000000
+      internalID: 7652026268092341953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_27
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1036
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379847bfe0195dd00800000000000000
+      internalID: 996862386066721139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_28
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1041
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2001cce73e515a40800000000000000
+      internalID: 5355165026208514094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 974
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68738dd2d1e03a2f0800000000000000
+      internalID: -962910376841169018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 953
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292d2fc4ccd9f24f0800000000000000
+      internalID: -851288303759863150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_31
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 960
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5c2d9eafcb47d80800000000000000
+      internalID: -8253764431212526124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_32
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 985
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f0c745d7775da80800000000000000
+      internalID: -8442710546264092808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_33
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 960
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e6c549da956d9d0800000000000000
+      internalID: -2749911920409809324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 937
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6923b249c9793f70800000000000000
+      internalID: 9167492421803780461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_35
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 855
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4e855dd8cad5540800000000000000
+      internalID: 4998340886620857564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_36
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 885
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d70d0ca84716d00800000000000000
+      internalID: 964179934523194689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_37
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 743
+        width: 88
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb19e2681cdc5de0800000000000000
+      internalID: -1342956591566480394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_38
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 892
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fd47798b479c620800000000000000
+      internalID: 2794893379923926941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_39
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 868
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b7715792f4afab0800000000000000
+      internalID: -4973575799000564835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_40
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 860
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cb03b370c664620800000000000000
+      internalID: 2758010600124628121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 750
+        width: 35
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f59b262939df91a0800000000000000
+      internalID: -6800478072829405710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_42
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 836
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb50ee985616e1810800000000000000
+      internalID: 1737933594945258939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_43
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 731
+        width: 41
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53784968567cb62a0800000000000000
+      internalID: -6743076778193680587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_44
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 825
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4f946495b9438d0800000000000000
+      internalID: -2867496254994516767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_45
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 809
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714a969bd6c2ba750800000000000000
+      internalID: 6317191752091018263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_46
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 818
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba79ebdadcd6da990800000000000000
+      internalID: -7373116284784961621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 774
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc23d2cf392af8340800000000000000
+      internalID: 4868288478685508303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_48
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 787
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a48f33a1e36efe0800000000000000
+      internalID: -1160171571739342291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_49
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 728
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ec96356cd890190800000000000000
+      internalID: -7995703780477121019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_50
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 732
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dda601255e969bd0800000000000000
+      internalID: -2623735644433240622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_51
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 742
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb7c35add8509cb0800000000000000
+      internalID: -4859286288949543967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_52
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 725
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550898a93426eb150800000000000000
+      internalID: 5890253405142220885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 703
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febe9569f6fef6880800000000000000
+      internalID: -8615404299593585681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_54
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 549
+        width: 71
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563646bc442cc24d0800000000000000
+      internalID: -3157935637967641755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_55
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 696
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eccddb7aa8419e60800000000000000
+      internalID: 7967229112854891744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_56
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 684
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c141c6a6206263070800000000000000
+      internalID: 8085691972807562268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_57
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 689
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a11d643cf09ee1c0800000000000000
+      internalID: -4472477967046602332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_58
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 682
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66eae2c674129b960800000000000000
+      internalID: 7618156835315297894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_59
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 652
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d88f5a3072321a80800000000000000
+      internalID: -8497674089297639212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_60
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 618
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eff468a92d66db20800000000000000
+      internalID: 3158832214333259749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 590
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a27df107bd338cc0800000000000000
+      internalID: -3710053811801460059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_62
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 648
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0970a3225f1e57150800000000000000
+      internalID: 5869846132304775056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_63
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 621
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e6648f167fa0470800000000000000
+      internalID: 8361767658316000836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_64
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 486
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245be80e90f59d1b0800000000000000
+      internalID: -5631365363023301310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_65
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 379
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9432fc9b9341498b0800000000000000
+      internalID: -5146466236014582967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_66
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 379
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dc7cbfaaf7f5290800000000000000
+      internalID: -7899454849039217272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_67
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 354
+        width: 370
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29eb70310d6d3ae0800000000000000
+      internalID: -1567977243379242710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_68
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 346
+        width: 86
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01b5fe79a947b230800000000000000
+      internalID: 3654470614962778380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_69
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 380
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a98adb9013791bc0800000000000000
+      internalID: -3811889094420952666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_70
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 332
+        width: 234
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a6b3f7af293ccd0800000000000000
+      internalID: -2539024160332748202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 353
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7282db68c1903b140800000000000000
+      internalID: 4734137651420801063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_72
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 350
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ba40464c92ef390800000000000000
+      internalID: -7782737182581281989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_73
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 361
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30043d62ec8564610800000000000000
+      internalID: 1605067959642046467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_74
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 345
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa91dbfc1414cdf0800000000000000
+      internalID: -160981571962037509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_75
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 334
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c375408540e6540800000000000000
+      internalID: 5002941012131658866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 342
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496b6e2a4af6cc430800000000000000
+      internalID: 3804538538119575188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_77
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 313
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caaa7b6631af18a0800000000000000
+      internalID: -6332165295956120894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_78
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 311
+        width: 81
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bc2486e4ee9b0d0800000000000000
+      internalID: -3406429622605001890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_79
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 303
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16c2787b4dba2640800000000000000
+      internalID: 5056061663517787679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_80
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 316
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff6a92c877169fa0800000000000000
+      internalID: -5794418063137148933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_81
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 299
+        width: 81
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27fcacbfdd255210800000000000000
+      internalID: 1321012504669517614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_82
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 318
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83d3159cb6532d10800000000000000
+      internalID: 2099617219239728012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_83
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 328
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6df9095abe6b7a0800000000000000
+      internalID: -6361638327285721416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_84
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 304
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba458ab019a77890800000000000000
+      internalID: -7460308368402068803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_85
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 296
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119dbf26189b3ac90800000000000000
+      internalID: -7159675017226364655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_86
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 309
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6a7e7fd37441650800000000000000
+      internalID: 6202660918273746680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_87
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 295
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19346eaa0f56faae0800000000000000
+      internalID: -1535896863576276079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_88
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 292
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3c7ee7194d3e360800000000000000
+      internalID: 7197830350832649147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_89
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 282
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b3b402f31526a50800000000000000
+      internalID: 6512857342697749399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_90
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 270
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f0f14907d953df0800000000000000
+      internalID: -201081501501157608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_91
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 278
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b68aa94fbbe1430800000000000000
+      internalID: 3755645798514715477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_92
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 261
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90255586f81f07150800000000000000
+      internalID: 5868455912696795657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dozer1_93
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 258
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31fe424eec42d9e0800000000000000
+      internalID: -1598130331564707524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dozer1_0: 5007283597525108648
+      dozer1_1: -8759657167957193006
+      dozer1_10: -1967501305348335383
+      dozer1_11: -7746001247113175815
+      dozer1_12: -9098456326276397166
+      dozer1_13: -7024552553905693332
+      dozer1_14: -2458990781062743867
+      dozer1_15: -2018282675180684412
+      dozer1_16: 3655147520883705334
+      dozer1_17: 2232265451929290882
+      dozer1_18: -6905871865257653675
+      dozer1_19: -6647239084214466217
+      dozer1_2: 4551168391922294289
+      dozer1_20: 536697228710008756
+      dozer1_21: -8655893955263649482
+      dozer1_22: 6204799894735875330
+      dozer1_23: -2160092887316130901
+      dozer1_24: -4300817513557733034
+      dozer1_25: -6988530301423787455
+      dozer1_26: 7652026268092341953
+      dozer1_27: 996862386066721139
+      dozer1_28: 5355165026208514094
+      dozer1_29: -962910376841169018
+      dozer1_3: 1618903718099553671
+      dozer1_30: -851288303759863150
+      dozer1_31: -8253764431212526124
+      dozer1_32: -8442710546264092808
+      dozer1_33: -2749911920409809324
+      dozer1_34: 9167492421803780461
+      dozer1_35: 4998340886620857564
+      dozer1_36: 964179934523194689
+      dozer1_37: -1342956591566480394
+      dozer1_38: 2794893379923926941
+      dozer1_39: -4973575799000564835
+      dozer1_4: -6808335431683976860
+      dozer1_40: 2758010600124628121
+      dozer1_41: -6800478072829405710
+      dozer1_42: 1737933594945258939
+      dozer1_43: -6743076778193680587
+      dozer1_44: -2867496254994516767
+      dozer1_45: 6317191752091018263
+      dozer1_46: -7373116284784961621
+      dozer1_47: 4868288478685508303
+      dozer1_48: -1160171571739342291
+      dozer1_49: -7995703780477121019
+      dozer1_5: 8346508880993337431
+      dozer1_50: -2623735644433240622
+      dozer1_51: -4859286288949543967
+      dozer1_52: 5890253405142220885
+      dozer1_53: -8615404299593585681
+      dozer1_54: -3157935637967641755
+      dozer1_55: 7967229112854891744
+      dozer1_56: 8085691972807562268
+      dozer1_57: -4472477967046602332
+      dozer1_58: 7618156835315297894
+      dozer1_59: -8497674089297639212
+      dozer1_6: -9058424910113828779
+      dozer1_60: 3158832214333259749
+      dozer1_61: -3710053811801460059
+      dozer1_62: 5869846132304775056
+      dozer1_63: 8361767658316000836
+      dozer1_64: -5631365363023301310
+      dozer1_65: -5146466236014582967
+      dozer1_66: -7899454849039217272
+      dozer1_67: -1567977243379242710
+      dozer1_68: 3654470614962778380
+      dozer1_69: -3811889094420952666
+      dozer1_7: 386159076804479863
+      dozer1_70: -2539024160332748202
+      dozer1_71: 4734137651420801063
+      dozer1_72: -7782737182581281989
+      dozer1_73: 1605067959642046467
+      dozer1_74: -160981571962037509
+      dozer1_75: 5002941012131658866
+      dozer1_76: 3804538538119575188
+      dozer1_77: -6332165295956120894
+      dozer1_78: -3406429622605001890
+      dozer1_79: 5056061663517787679
+      dozer1_8: 3592925015407897511
+      dozer1_80: -5794418063137148933
+      dozer1_81: 1321012504669517614
+      dozer1_82: 2099617219239728012
+      dozer1_83: -6361638327285721416
+      dozer1_84: -7460308368402068803
+      dozer1_85: -7159675017226364655
+      dozer1_86: 6202660918273746680
+      dozer1_87: -1535896863576276079
+      dozer1_88: 7197830350832649147
+      dozer1_89: 6512857342697749399
+      dozer1_9: 1540675007201579489
+      dozer1_90: -201081501501157608
+      dozer1_91: 3755645798514715477
+      dozer1_92: 5868455912696795657
+      dozer1_93: -1598130331564707524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
